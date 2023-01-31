@@ -1,14 +1,10 @@
-# Hooks-Admin 🚀
+# React-Ant-Admin 🚀
 
 ### 介绍 📖
 
-🚀🚀🚀 Hooks Admin，基于 React18、React-Router v6、React-Hooks、Redux && Redux-Toolkit、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
+🚀🚀🚀 React Ant Admin，基于 React18、React-Router v6、React-Hooks、Redux && Redux-Toolkit、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 
 🌈 Redux-Toolkit 版本请切换到 Redux-Toolkit 分支上
-
-### 项目相关文档 📚
-
-- 项目更新日志：[CHANGELOG.md](./CHANGELOG.md)
 
 ### 一、在线预览地址 👀
 
@@ -16,9 +12,9 @@
 
 ### 二、Git 仓库地址 (欢迎 Star⭐)
 
-- Gitee：https://gitee.com/laramie/Hooks-Admin
+- Gitee：https://gitee.com/laramie/React-Ant-Admin
 
-- GitHub：https://github.com/HalseySpicy/Hooks-Admin
+- GitHub：https://github.com/HalseySpicy/React-Ant-Admin
 
 ### 三、🔨🔨🔨 项目功能
 
@@ -40,9 +36,9 @@
 
 ```text
 # Gitee
-git clone https://gitee.com/laramie/Hooks-Admin.git
+git clone https://gitee.com/laramie/React-Ant-Admin.git
 # GitHub
-git clone https://github.com/HalseySpicy/Hooks-Admin.git
+git clone https://github.com/HalseySpicy/React-Ant-Admin.git
 ```
 
 - **Install：**
@@ -112,7 +108,7 @@ npm run commit
 ### 六、文件资源目录 📚
 
 ```text
-Hooks-Admin
+React-Ant-Admin
 ├─ .vscode                # vscode推荐配置
 ├─ public                 # 静态资源文件（忽略打包）
 ├─ src
@@ -174,23 +170,3 @@ Hooks-Admin
 
 - FastMock： https://www.fastmock.site/
 - EasyMock：https://mock.mengxuegu.com/
-
-### 九、微信交流群
-
-> 微信群已超过 200 人，需要加我好友，拉大家进群 🤪
-
-|                                            微信二维码                                             |
-| :-----------------------------------------------------------------------------------------------: |
-| <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220914145852.png" width=200> |
-
-### 十、捐赠 🍵
-
-> **如果你正在使用这个项目或者喜欢这个项目的，可以通过以下方式支持我**
-
-- **Star、Fork、Watch** 一键三连 🚀🚀
-
-- 通过 **微信、支付宝** 一次性捐款，够维护访问地址就行 🤣🤣
-
-|                                                         微信                                                          |                                                        支付宝                                                         |
-| :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220610144145.png" alt="Wechat QRcode" width=170> | <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220610144200.png" alt="Alipay QRcode" width=170> |
